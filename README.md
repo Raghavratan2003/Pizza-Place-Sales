@@ -24,3 +24,6 @@ Python, Pandas, Matplotlib, Seaborn
 2. Discontinue Brie Carre Pizza — only ~500 orders in full year
 3. Increase staff on Fridays at 12 PM — peak demand window
 4. Focus marketing on Large Classic pizzas — highest revenue per order
+
+## Power BI Dashboard
+👉 [View Interactive Dashboard](https://nitrklacin-my.sharepoint.com/:u:/g/personal/422ma5080_nitrkl_ac_in/IQBZZinuInsCSJxx0yQtTJJiAZdlsYMrFUUFdIL2oCZsgUg?e=ZvHuPm)
